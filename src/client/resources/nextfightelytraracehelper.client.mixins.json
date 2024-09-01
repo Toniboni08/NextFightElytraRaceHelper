@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "me.toniboni.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "SoundMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
